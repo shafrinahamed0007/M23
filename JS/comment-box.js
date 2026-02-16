@@ -16,5 +16,5 @@ document
     commentContainer.appendChild(commentElement);
 
     // step-6: clean the text are
-    newComment.innerText = "";
+    newComment = "";
   });
